@@ -11,13 +11,13 @@
 <p align="left">
 <div>
        <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-       <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">yaolifeng666@gmail.com</a>
+       <img width="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">yaolifeng666@gmail.com</a>
     </div>
     <div>
-    <a href="https://twitter.com/Immerse_code"> <img width="26" src="./assets/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
+    <a href="https://twitter.com/Immerse_code"> <img width="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
     </div>
     <div>
-        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="./assets/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记</a>
+        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记</a>
     </div>
     <!-- <div>
         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="26" height="26" viewBox="0 0 48 48">
@@ -29,12 +29,12 @@
     </div> -->
     <div>
         <a href="https://gitee.com/yaolifeng0529" >
-        <img width="26px" src="./assets/gitee.png"/>
+        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gitee-removebg-preview.png"/>
         </a> ：<a href="https://gitee.com/yaolifeng0529">南囝coding（Tips：Common platform）</a>
     </div>
     <div>
         <a href="https://juejin.cn/user/2708812817761752/posts" >
-        <img width="26px" src="/assets/juejin.svg"/>
+        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/juejin.svg"/>
         </a> ：<a href="https://juejin.cn/user/2708812817761752/posts">南囝coding</a>
     </div>
 </p>
