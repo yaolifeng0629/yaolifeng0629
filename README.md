@@ -11,7 +11,7 @@
 <p align="left">
 <div>
        <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-       <img width="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" style="text-decoration: none;">yaolifeng666@gmail.com</a>
+       <img width="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >yaolifeng666@gmail.com</a>
     </div>
     <div>
     <a href="https://twitter.com/Immerse_code"> <img width="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
