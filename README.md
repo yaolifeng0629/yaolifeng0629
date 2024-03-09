@@ -29,13 +29,11 @@
     </div> -->
     <div>
         <a href="https://gitee.com/yaolifeng0529" >
-        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gitee-removebg-preview.png"/>
-        </a> ：<a href="https://gitee.com/yaolifeng0529">南囝coding（Tips：Common platform）</a>
+        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gitee-removebg-preview.png"/></a> ：<a href="https://gitee.com/yaolifeng0529">南囝coding（Tips：Common platform）</a>
     </div>
     <div>
         <a href="https://juejin.cn/user/2708812817761752/posts" >
-        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/juejin.svg"/>
-        </a> ：<a href="https://juejin.cn/user/2708812817761752/posts">南囝coding</a>
+        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/juejin.svg"/></a> ：<a href="https://juejin.cn/user/2708812817761752/posts">南囝coding</a>
     </div>
 </p>
 
