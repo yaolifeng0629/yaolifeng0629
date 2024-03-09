@@ -11,7 +11,7 @@
 <p align="left">
 <div>
        <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-       <img width="26" src="./assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">yaolifeng666@gmail.com</a>
+       <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">yaolifeng666@gmail.com</a>
     </div>
     <div>
     <a href="https://twitter.com/Immerse_code"> <img width="26" src="./assets/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
@@ -34,7 +34,7 @@
     </div>
     <div>
         <a href="https://juejin.cn/user/2708812817761752/posts" >
-        <img width="26px" src="./assets/juejin.svg"/>
+        <img width="26px" src="/assets/juejin.svg"/>
         </a> ：<a href="https://juejin.cn/user/2708812817761752/posts">南囝coding</a>
     </div>
 </p>
