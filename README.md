@@ -1,6 +1,7 @@
 <h1 align="left">Hi there，I'm Ims 👋</h1>
 
 <div align="left">
+    <b align="left">🔭 An open source enthusiast.</b><br/>
     <b align="left">🚀 A passionate frontend developer from China.</b><br/>
     <b align="left">☕ Learning Vue、React、JS、Node.js、Vitest、Tailwindcss、Sass......</b><br/>
     <b align="left">💻 Interesting in Coding、Writing、Running、Meditate、Reading......</b><br/>
