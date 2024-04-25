@@ -44,12 +44,17 @@
 
 <h1>GitHub Stats</h1>
 
-![Immersion's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaolifeng0629&show_icons=true&theme=radical)
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaolifeng0629)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/yaolifeng0629/github-readme-stats))</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>![Immersion's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaolifeng0629&show_icons=true&theme=radical)</span>
+    
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaolifeng0629&layout=compact)](https://github.com/yaolifeng0629/github-readme-stats) -->
+
 
 <!-- 介绍项目 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaolifeng0629&layout=compact)](https://github.com/yaolifeng0629/github-readme-stats) -->
+
 <!--
 Here are some ideas to get you started:
 
