@@ -1,4 +1,4 @@
-<h1 align="left">Hi there，I'm Ims 👋</h1>
+<h1 align="left">Hi there，I'm Immerse 👋</h1>
 
 <div align="left">
     <b align="left">🔭 An open source enthusiast.</b><br/>
