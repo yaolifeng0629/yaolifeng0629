@@ -30,30 +30,40 @@
     </div> -->
     <div>
         <a href="https://gitee.com/yaolifeng0529" >
-        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gitee-removebg-preview.png"/></a> ：<a href="https://gitee.com/yaolifeng0529">南囝coding（Tips：Common platform）</a>
+        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gitee-removebg-preview.png"/></a> ：<a href="https://gitee.com/yaolifeng0529">Immerse（Tips：Common platform）</a>
     </div>
     <div>
         <a href="https://juejin.cn/user/2708812817761752/posts" >
-        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/juejin.svg"/></a> ：<a href="https://juejin.cn/user/2708812817761752/posts">南囝coding</a>
+        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/juejin.svg"/></a> ：<a href="https://juejin.cn/user/2708812817761752/posts">Immerse</a>
     </div>
 </p>
+
 
 <h1>Person Blog</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3500&pause=10000&color=2795FF&width=600&height=30&lines=Please+check+the+official+account+of+Wechat.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g)
 
-<h1>GitHub Stats</h1>
+<!-- <h1>GitHub Stats</h1>
 
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaolifeng0629)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/yaolifeng0629/github-readme-stats))</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>![Immersion's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaolifeng0629&show_icons=true&theme=radical)</span>
-    
+<span>![Immersion's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaolifeng0629&show_icons=true&theme=radical)</span> -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaolifeng0629&layout=compact)](https://github.com/yaolifeng0629/github-readme-stats) -->
 
 
 <!-- 介绍项目 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox) -->
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yaolifeng0629&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/yaolifeng0629)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,bash,xml,json,mysql,powershell,sass,markdown&includeNames=true)](https://github.com/yaolifeng0629)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,bootstrap,nest,tailwind,express&includeNames=true)](https://github.com/yaolifeng0629)
+
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,jquery)](https://github.com/yaolifeng0629) -->
 
 <!--
 Here are some ideas to get you started:
