@@ -41,7 +41,7 @@
 
 <h1>Person Blog</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3500&pause=10000&color=2795FF&width=600&height=30&lines=Please+check+the+official+account+of+Wechat.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3000&pause=100000&color=2795FF&width=600&height=30&lines=Please+check+the+official+account+of+Wechat.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g)
 
 <!-- <h1>GitHub Stats</h1>
 
