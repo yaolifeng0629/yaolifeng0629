@@ -57,11 +57,11 @@
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox) -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yaolifeng0629&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/yaolifeng0629)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yaolifeng0629&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/yaolifeng0629)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,bash,xml,json,mysql,powershell,sass,markdown&includeNames=true)](https://github.com/yaolifeng0629)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,bootstrap,nest,tailwind,express&includeNames=true)](https://github.com/yaolifeng0629)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,bootstrap,nest,tailwind,express&includeNames=true)](https://github.com/yaolifeng0629) -->
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,jquery)](https://github.com/yaolifeng0629) -->
 
