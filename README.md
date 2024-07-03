@@ -1,7 +1,7 @@
 <h1 align="left">Hi there，I'm Immerse 👋</h1>
 
 <div align="left">
-    <div align="left" style="font-size: 17px;">
+    <div align="left" style="font-size: 18px;">
     🔭 An open source enthusiast.<br/>
     🚀 A passionate frontend developer from China.<br/>
     ☕ Learning Vue、React、JavaScript、Node.js、Vitest、Tailwindcss...<br/>
