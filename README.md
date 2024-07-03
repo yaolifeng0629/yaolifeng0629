@@ -1,11 +1,13 @@
 <h1 align="left">Hi there，I'm Immerse 👋</h1>
 
 <div align="left">
-    <b align="left">🔭 An open source enthusiast.</b><br/>
-    <b align="left">🚀 A passionate frontend developer from China.</b><br/>
-    <b align="left">☕ Learning Vue、React、JS、Node.js、Vitest、Tailwindcss、Sass......</b><br/>
-    <b align="left">💻 Interesting in Coding、Writing、Running、Meditate、Reading......</b><br/>
-    <b align="left">🌱 Want to be a simple and happy person.</b><br/>
+    <div align="left" style="font-size: 17px;">
+    🔭 An open source enthusiast.<br/>
+    🚀 A passionate frontend developer from China.<br/>
+    ☕ Learning Vue、React、JavaScript、Node.js、Vitest、Tailwindcss...<br/>
+    💻 Interesting in Coding、Writing、Running、Meditate、Reading...<br/>
+    🌱 Want to be a simple and happy person.<br/>
+    </div>
 </div>
 
 <h1 align="left">How to reach me 👇</h1>
