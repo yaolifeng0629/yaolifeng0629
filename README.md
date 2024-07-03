@@ -1,13 +1,13 @@
 <h1 align="left">Hi there，I'm Immerse 👋</h1>
 
 <div align="left">
-    <div align="left" style="font-size: 18px;">
+    <p align="left" style="font-size: 18px;">
     🔭 An open source enthusiast.<br/>
     🚀 A passionate frontend developer from China.<br/>
     ☕ Learning Vue、React、JavaScript、Node.js、Vitest、Tailwindcss...<br/>
     💻 Interesting in Coding、Writing、Running、Meditate、Reading...<br/>
     🌱 Want to be a simple and happy person.<br/>
-    </div>
+    </p>
 </div>
 
 <h1 align="left">How to reach me 👇</h1>
