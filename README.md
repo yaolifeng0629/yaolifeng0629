@@ -4,9 +4,9 @@
     <p align="left" style="font-size: 18px;">
     🔭 An open source enthusiast.<br/>
     🚀 A passionate frontend developer from China.<br/>
-    ☕ Learning Vue、React、JavaScript、Node.js、Vitest、Tailwindcss...<br/>
-    💻 Interesting in Coding、Writing、Running、Meditate、Reading...<br/>
-    🌱 Want to be a simple and happy person.<br/>
+    ☕ Learning Vue、React、(Java|Type)Script、Node.js、Vitest、Tailwindcss...<br/>
+    💻 Interesting in Utils、Coding、Writing、Running、Meditate、Reading...<br/>
+    🌱 Want to be a simple and better you.<br/>
     </p>
 </div>
 
