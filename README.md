@@ -23,7 +23,7 @@
     <a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA"> <img width="26" src="https://qncdn.mopic.mozigu.net/work/143/24/e69aefed66ad4cb9/youtube.svg"/></a> ：<a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA">Immerse_001</a>
     </div>
     <div>
-        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记</a>
+        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记 or (Immerse_code)</a>
     </div>
     <!-- <div>
         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="26" height="26" viewBox="0 0 48 48">
