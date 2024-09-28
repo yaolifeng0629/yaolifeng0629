@@ -1,7 +1,7 @@
 <h1 align="left">Hi there，I'm Immerse 👋</h1>
 
 <div align="left">
-    <p align="left" style="font-size: 18px;">
+    <p align="left" style="font-size: 20px;">
     🔭 An open source enthusiast.<br/>
     🚀 A passionate frontend developer from China.<br/>
     ☕ Learning Vue、React、(Java|Type)Script、Node.js、Vitest、Tailwindcss...<br/>
@@ -14,16 +14,16 @@
 <p align="left">
     <div>
        <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-       <img width="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >yaolifeng666@gmail.com</a>
+       <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >yaolifeng666@gmail.com</a>
     </div>
     <div>
-    <a href="https://twitter.com/Immerse_code"> <img width="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
+    <a href="https://twitter.com/Immerse_code"> <img width="26" src="/assets/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
     </div>
     <div>
-    <a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA"> <img width="26" src="https://qncdn.mopic.mozigu.net/work/143/24/e69aefed66ad4cb9/youtube.svg"/></a> ：<a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA">Immerse_001</a>
+    <a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA"> <img width="26" src="/assets/youtube.svg"/></a> ：<a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA">Immerse_001</a>
     </div>
     <div>
-        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记 or (Immerse_code)</a>
+        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="/assets/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记 or (Immerse_code)</a>
     </div>
     <!-- <div>
         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="26" height="26" viewBox="0 0 48 48">
@@ -35,11 +35,11 @@
     </div> -->
     <div>
         <a href="https://gitee.com/yaolifeng0529" >
-        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/gitee-removebg-preview.png"/></a> ：<a href="https://gitee.com/yaolifeng0529">Immerse（Tips：Common platform）</a>
+        <img width="26px" src="/assets/gitee.png"/></a> ：<a href="https://gitee.com/yaolifeng0529">Immerse（Tips：Common platform）</a>
     </div>
     <div>
         <a href="https://juejin.cn/user/2708812817761752/posts" >
-        <img width="26px" src="https://qncdn.mopic.mozigu.net/f/o0enm5lqh2rbsqbopel/126890711aec/juejin.svg"/></a> ：<a href="https://juejin.cn/user/2708812817761752/posts">Immerse</a>
+        <img width="26px" src="/assets/juejin.svg"/></a> ：<a href="https://juejin.cn/user/2708812817761752/posts">Immerse</a>
     </div>
 </p>
 
@@ -47,6 +47,9 @@
 <h1>Person Blog</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3000&pause=100000&color=2795FF&width=600&height=30&lines=Please+check+the+official+account+of+Wechat.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g)
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3000&pause=100000&color=2795FF&width=600&height=30&lines=Website:+【yaolifeng-me.vercel.app】+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://yaolifeng-me.vercel.app) -->
+
 
 <!-- <h1>GitHub Stats</h1>
 
