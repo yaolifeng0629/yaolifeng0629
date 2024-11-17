@@ -20,8 +20,8 @@
     <a href="https://twitter.com/Immerse_code"> <img width="26" src="/assets/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
     </div>
     <div>
-    <a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA"> <img width="26" src="/assets/youtube.svg"/></a> ：<a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA">Immerse_001</a>
-    </div>
+    <!-- <a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA"> <img width="26" src="/assets/youtube.svg"/></a> ：<a href="https://www.youtube.com/channel/UCTcYdMnMZtdyuOyxMj6OJnA">Immerse_001</a>
+    </div> -->
     <div>
         <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="/assets/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记 or (Immerse_code)</a>
     </div>
@@ -33,14 +33,14 @@
     <!-- <div>
     <a href="https://www.zhihu.com/people/nan-sheng-27-68"> <img height="26" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a> ：<a href="https://www.zhihu.com/search?q=%E5%8D%97%E5%9B%9Dcoding&type=people">南囝coding</a>
     </div> -->
-    <div>
+    <!-- <div>
         <a href="https://gitee.com/yaolifeng0529" >
         <img width="26px" src="/assets/gitee.png"/></a> ：<a href="https://gitee.com/yaolifeng0529">Immerse（Tips：Common platform）</a>
-    </div>
-    <div>
+    </div> -->
+    <!-- <div>
         <a href="https://juejin.cn/user/2708812817761752/posts" >
         <img width="26px" src="/assets/juejin.svg"/></a> ：<a href="https://juejin.cn/user/2708812817761752/posts">Immerse</a>
-    </div>
+    </div> -->
 </p>
 
 
