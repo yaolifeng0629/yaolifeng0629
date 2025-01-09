@@ -54,9 +54,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3000&pause=100000&color=2795FF&width=600&height=30&lines=Website:+【yaolifeng.com】)](https://yaolifeng.com)
 
 <h1>Sponsor me <img width="26" src="/assets/like.svg"/></h1>
-<!-- <iframe src="https://ims-oss.us.kg/html/simple.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe> -->
-<!-- [![Sponsor me](/assets/Sponsor.png)](https://ims-oss.us.kg/html/simple.html) -->
-<!-- <a href="https://ims-oss.us.kg/html/simple.html"> <img width="40%" src="/assets/Sponsor.png"/></a> -->
+<!-- <iframe src="https://yaolifeng.com/sponsor.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe> -->
+<!-- [![Sponsor me](/assets/Sponsor.png)](https://yaolifeng.com/sponsor.html) -->
+<!-- <a href="https://yaolifeng.com/sponsor.html"> <img width="40%" src="/assets/Sponsor.png"/></a> -->
 
 
 <div align="left">
@@ -64,10 +64,10 @@
   <p>
     <em>If you find my projects helpful, consider supporting me!</em>
   </p>
-  <a href="https://ims-oss.us.kg/html/simple.html">
+  <a href="https://yaolifeng.com/sponsor.html">
     <img src="https://img.shields.io/badge/Sponsor-FF69B4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor"/>
   </a>
-  <a href="https://ims-oss.us.kg/html/simple.html">
+  <a href="https://yaolifeng.com/sponsor.html">
     <img src="/assets/Sponsor.png" width="300" alt="Sponsor me"/>
   </a>
   <p>
@@ -77,23 +77,23 @@
 
 <p align="left">
   <!-- Pink GitHub Sponsor Style -->
-  <a href="https://ims-oss.us.kg/html/simple.html">
+  <a href="https://yaolifeng.com/sponsor.html">
     <img src="https://img.shields.io/badge/Sponsor-FF69B4?style=for-the-badge&logo=github-sponsors&logoColor=white" width="10%" alt="Sponsor"/>
   </a>
   <!-- Blue Support Style -->
-  <a href="https://ims-oss.us.kg/html/simple.html">
+  <a href="https://yaolifeng.com/sponsor.html">
     <img src="https://img.shields.io/badge/Support_My_Work-0099ff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" width="15%" alt="Support"/>
   </a>
   <!-- Green Donate Style -->
-  <a href="https://ims-oss.us.kg/html/simple.html">
+  <a href="https://yaolifeng.com/sponsor.html">
     <img src="https://img.shields.io/badge/Donate-00b300?style=for-the-badge&logo=heart&logoColor=white" width="10%" alt="Donate"/>
   </a>
   <!-- Purple Patron Style -->
-  <a href="https://ims-oss.us.kg/html/simple.html">
+  <a href="https://yaolifeng.com/sponsor.html">
     <img src="https://img.shields.io/badge/Become_Patron-8134af?style=for-the-badge&logo=patreon&logoColor=white" width="15%" alt="Become a Patron"/>
   </a>
   <!-- Orange Buy Me a Coffee Style -->
-  <a href="https://ims-oss.us.kg/html/simple.html">
+  <a href="https://yaolifeng.com/sponsor.html">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ff813f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" width="15%" alt="Buy Me A Coffee"/>
   </a>
 </p>
