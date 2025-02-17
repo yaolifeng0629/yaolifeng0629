@@ -21,7 +21,7 @@
     </div>
     <div>
     <div>
-        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="/assets/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">非同质前端札记 or (Immerse_code)</a>
+        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="/assets/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">沉浸式趣谈 or (immtalk)</a>
     </div>
     <div>
         <a href="https://yaolifeng.com"><img width="26" height="26" src="/assets/Immerse-light.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com">姚利锋（个人网站）</a>
