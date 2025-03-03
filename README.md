@@ -31,7 +31,7 @@
 <h1>Buy me a coffee ❤️</h1>
 <a href="https://yaolifeng.com/sponsor.html">
   <!-- <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0099ff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" width="15%" alt="Support"/> -->
-  <img src="/assets/buy_coffee1.gif" width="15%" alt="Support"/>
+  <img src="/assets/buy_coffee2.png" width="15%" alt="Support"/>
 </a>
 
 <h1>Person Blog 🧑‍💻</h1>
