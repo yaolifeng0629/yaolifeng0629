@@ -101,6 +101,8 @@
 
 ![Repobeats analytics image](https://repobeats.axiom.co/api/embed/ddaa9df9a94b0029ec3fad399e1c1c4e75755477.svg "Repobeats analytics image")
 
+[![Immerse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaolifeng0629&theme=github-compact&days=40)](https://github.com/GeekyWizKid/github-readme-activity-graph)
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 <!-- <h1>GitHub Stats</h1>
 
