@@ -2,10 +2,12 @@
 
 <div align="left">
     <p align="left" style="font-size: 20px;">
-    🔭 An open source enthusiast.<br/>
+    🔭 An open source enthusiast、Content creator、AGI practitioner<br/>
+    ⚡ Content creation across over 10 platforms.<br/>
     🚀 A passionate frontend developer from China.<br/>
     ☕ Learning Vue、React、(Java|Type)Script、Node.js、Vitest、Tailwindcss...<br/>
     💻 Interesting in Utils、Coding、Writing、Running、Meditate、Reading...<br/>
+    👯 Based in Shenzhen, China, and open to meetups!<br/>
     🌱 Want to be a simple and better you.<br/>
     </p>
 </div>
