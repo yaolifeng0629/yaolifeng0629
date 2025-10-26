@@ -21,7 +21,7 @@
         <a href="https://yaolifeng.com"><img width="26" height="26" src="/assets/Immerse-light.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com">Immerse | 姚利锋（个人网站）</a>
     </div>
     <div>
-        <a href="https://yaolifeng.com/other/wx_public_account.webp"><img width="26" height="26" src="/assets/official.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com/other/wx_public_account.webp">沉浸式趣谈</a>
+        <a href="https://yaolifeng.com/other/wx_public_account.webp"><img width="26" height="26" src="/assets/official.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com/other/wx_public_account.webp">沉浸式趣谈 | immtalks</a>
     </div>
     <div>
     <a href="https://twitter.com/Immerse_code"> <img width="26" src="/assets/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
@@ -29,7 +29,7 @@
     <div>
     <div>
        <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-       <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >yaolifeng666@gmail.com</a>
+       <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >hi@yaolifeng.com</a>
     </div>
 </p>
 
