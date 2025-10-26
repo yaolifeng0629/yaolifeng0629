@@ -15,18 +15,21 @@
 <h1 align="left">How to reach me 👇</h1>
 <p align="left">
     <div>
-       <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-       <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >yaolifeng666@gmail.com</a>
+        <a href="https://yaolifeng.com/other/wechat.webp"><img width="26" height="26" src="/assets/wechat.png" alt="wechat"/></a> ：<a href="https://yaolifeng.com/other/wechat.webp">immtalk</a>
+    </div>
+    <div>
+        <a href="https://yaolifeng.com"><img width="26" height="26" src="/assets/Immerse-light.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com">Immerse | 姚利锋（个人网站）</a>
+    </div>
+    <div>
+        <a href="https://yaolifeng.com/other/wx_public_account.webp"><img width="26" height="26" src="/assets/official.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com/other/wx_public_account.webp">沉浸式趣谈</a>
     </div>
     <div>
     <a href="https://twitter.com/Immerse_code"> <img width="26" src="/assets/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
     </div>
     <div>
     <div>
-        <a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g"><img width="26" height="26" src="/assets/wechat.png" alt="wechat"/></a> ：<a href="https://mp.weixin.qq.com/s/xui2UBEtkJc46Q-ImWrv8g">沉浸式趣谈 or (immtalk)</a>
-    </div>
-    <div>
-        <a href="https://yaolifeng.com"><img width="26" height="26" src="/assets/Immerse-light.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com">姚利锋（个人网站）</a>
+       <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+       <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >yaolifeng666@gmail.com</a>
     </div>
 </p>
 
