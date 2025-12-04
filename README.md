@@ -24,9 +24,17 @@
         <a href="https://yaolifeng.com/other/wx_public_account.webp"><img width="26" height="26" src="/assets/official.svg" alt="wechat"/></a> ：<a href="https://yaolifeng.com/other/wx_public_account.webp">沉浸式趣谈 | immtalks</a>
     </div>
     <div>
+       <a href="https://www.xiaohongshu.com/user/profile/607a61870000000001008765">
+       <img width="26" src="/assets/xhs.svg"/></a> ：<a href="https://www.xiaohongshu.com/user/profile/607a61870000000001008765" >Immerse</a>
+    </div>
+    <div>
     <a href="https://twitter.com/Immerse_code"> <img width="26" src="/assets/twitter.svg"/></a> ：<a href="https://twitter.com/Immerse_code">Immerse_code</a>
     </div>
     <div>
+    <div>
+       <a href="https://okjk.co/DplbUc">
+       <img width="26" src="/assets/okjk.png"/></a> ：<a href="https://okjk.co/DplbUc" >Immerse_出海</a>
+    </div>
     <div>
        <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
        <img width="26" src="/assets/gmail.svg"/></a> ：<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >hi@yaolifeng.com</a>
