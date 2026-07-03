@@ -1,14 +1,14 @@
-<h1 align="left">Hi there，I'm Immerse 👋</h1>
+<h1 align="left">Hello, I'm Yao Lifeng | Immerse 👋</h1>
 
 <div align="left">
     <p align="left" style="font-size: 20px;">
-    🔭 An open source enthusiast、Content creator、AGI practitioner<br/>
-    ⚡ Content creation across over 10 platforms.<br/>
-    🚀 A passionate frontend developer from China.<br/>
-    ☕ Learning Vue、React、(Java|Type)Script、Node.js、Vitest、Tailwindcss...<br/>
-    💻 Interesting in Utils、Coding、Writing、Running、Meditate、Reading...<br/>
-    👯 Based in Shenzhen, China, and open to meetups!<br/>
-    🌱 Want to be a simple and better you.<br/>
+    I like simple, pure things, and I enjoy the process \owo/ ~<br/>
+    I record my everyday life here while working toward a simpler, better version of myself.<br/>
+    <br/>
+    Your support helps me keep doing this:<br/>
+    Writing ongoing reflections on AI, indie hacking, and building for global markets.<br/>
+    Maintaining open source projects, practical tools, and public tutorials.<br/>
+    Testing real products, learning through trial and error, and sharing the lessons along the way.<br/>
     </p>
 </div>
 
