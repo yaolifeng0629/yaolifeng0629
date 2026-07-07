@@ -1,15 +1,23 @@
 <h1 align="left">Hello, I'm Yao Lifeng | Immerse 👋</h1>
 
 <div align="left">
-    <p align="left" style="font-size: 20px;">
-    I like simple, pure things, and I enjoy the process \owo/ ~<br/>
+    <!-- <p align="left" style="font-size: 20px;">
+    I like simple, pure things, and I enjoy the process ~<br/>
     I record my everyday life here while working toward a simpler, better version of myself.<br/>
-    <br/>
-    Your support helps me keep doing this:<br/>
+    <h4>Your support helps me keep doing this:</h4>
     Writing ongoing reflections on AI, indie hacking, and building for global markets.<br/>
     Maintaining open source projects, practical tools, and public tutorials.<br/>
     Testing real products, learning through trial and error, and sharing the lessons along the way.<br/>
+    </p> -->
+    <p align="left" style="font-size: 24px;">
+    Loving simplicity, enjoying the process ~ <br/>
+    Documenting my days here to build a simpler, better me 💪 <br/>
+    <h4>What I Do:</h4>
+    • Writing practical insights on AI, indie hacking, and going global. <br/>
+    • Maintaining open-source projects, handy tools, and free tutorials. <br/>
+    • Testing real products and sharing the trial-and-error lessons along the way. <br/>
     </p>
+
 </div>
 
 <h1 align="left">How to reach me 👇</h1>
