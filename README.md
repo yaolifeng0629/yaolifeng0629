@@ -9,7 +9,7 @@
     Maintaining open source projects, practical tools, and public tutorials.<br/>
     Testing real products, learning through trial and error, and sharing the lessons along the way.<br/>
     </p> -->
-    <p align="left" style="font-size: 24px;">
+    <p align="left" style="font-size: 26px;">
     Loving simplicity, enjoying the process ~ <br/>
     Documenting my days here to build a simpler, better me 💪 <br/>
     <h4>What I Do:</h4>
